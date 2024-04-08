@@ -1,8 +1,12 @@
-# React + Vite
+# FROM THE TOP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. new, clean, empty directory: `mern_memories_manual`
+1. `vitae`
+    * `npm install react-router-dom axios mongodb mongoose thunk`
+1. add `"proxy": "http://localhost:5000"` to package.json
+1. `npm install dotenv`
+1.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Upcoming, probably:
+- @mui -something
