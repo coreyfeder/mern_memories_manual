@@ -5,7 +5,8 @@
     * `npm install react-router-dom axios mongodb mongoose thunk`
 1. add `"proxy": "http://localhost:5000"` to package.json
 1. `npm install dotenv`
-1.
+1. `npm uninstall react-router-dom`
+1. `npm uninstall mongodb`
 
 
 Upcoming, probably:
