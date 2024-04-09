@@ -1,4 +1,4 @@
-# set up /server
+# Server
 
 ## installations
 - axios
