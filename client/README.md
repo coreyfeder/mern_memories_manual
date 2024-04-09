@@ -1,4 +1,4 @@
-# FROM THE TOP
+# Client
 
 1. new, clean, empty directory: `mern_memories_manual`
 1. `vitae`
@@ -12,4 +12,7 @@
 
 
 Upcoming, probably:
-- @mui -something
+- @mui/material
+- @mui/system
+- @emotion/react
+- @emotion/styled
